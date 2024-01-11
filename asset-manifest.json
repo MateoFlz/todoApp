@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MateoFlz/todoApp/static/css/main.76398d8e.css",
+    "main.js": "/MateoFlz/todoApp/static/js/main.4de8ddc9.js",
+    "index.html": "/MateoFlz/todoApp/index.html",
+    "static/media/delete.svg": "/MateoFlz/todoApp/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/MateoFlz/todoApp/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.76398d8e.css.map": "/MateoFlz/todoApp/static/css/main.76398d8e.css.map",
+    "main.4de8ddc9.js.map": "/MateoFlz/todoApp/static/js/main.4de8ddc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76398d8e.css",
+    "static/js/main.4de8ddc9.js"
+  ]
+}
